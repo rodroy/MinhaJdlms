@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MinhaJdlms</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>minhajdlms</name>
+			<type>2</type>
+			<location>C:/rodrigo/desenvolvimento/java/MinhaJdlms/BibliotecasJdlms/minhajdlms</location>
+		</link>
+		<link>
+			<name>minharxtx</name>
+			<type>2</type>
+			<location>C:/rodrigo/desenvolvimento/java/MinhaJdlms/BibliotecasJdlms/minharxtx</location>
+		</link>
+	</linkedResources>
+</projectDescription>
